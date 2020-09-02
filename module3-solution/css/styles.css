@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+}
+/* Heading */
+h1{
+  font-family: cursive;
+  font-weight: bold;
+  padding: 30px;
+  
+}
+
+h2{
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.collapse{
+  background-color: white;
+}
+
+/* SECTIONS */
+section{
+  background-color: grey;
+  border: 3px solid black;
+  position: relative;
+  padding: 0px 10px 10px 10px;
+  font-size: 100%;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+
+.navbar-brand{
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 50px;
+}
+.nav-item{
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.row{
+  width: 100%;
+}
+
+
